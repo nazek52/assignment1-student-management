@@ -4,7 +4,7 @@ public class Main{
         Student s2= new Student("bob","2","SE");
         Student s3= new Student("stiv","3","doctor");
         Student s4= new Student("peter","4","architector");
-        Student s5= new Student("madina","5","engineer");
+        Student s5= new Student("leclear","5","engineer");
 
         s1.updateGPA(4.0);
         s1.addCredits(5);
